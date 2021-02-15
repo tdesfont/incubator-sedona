@@ -9,7 +9,7 @@ Sedona is compiled and tested on Java 1.8 and Scala 2.11/2.12:
 | Scala 2.11  |  ✅  |  not tested  |
 | Scala 2.12 | ✅  |  ✅  |
 
-Sedona Python is tested on the following Python and Spark verisons:
+Sedona Python is tested on the following Python and Spark versions:
 
 |             | Spark 2.4 (Scala 2.11) | Spark 3.0 (Scala 2.12)|
 |:-----------:|:---------:|:---------:|
